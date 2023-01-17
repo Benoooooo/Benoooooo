@@ -1,6 +1,26 @@
 <h1>front-end developer/
 NITDA blockchain developer </h1>
 
+<button onclick="typeWriter()">Click me</button>
+
+<p id="demo"></p>
+
+
+<script> let i = 0;
+let txt = `hi!  My Name is Benjamin`;
+let speed = 200;
+ 
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+
+</script>
+
 <P> my name is Benjamin  a web developer front 
 Developer, blockchain developer, using 
 
