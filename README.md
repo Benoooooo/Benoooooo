@@ -17,3 +17,6 @@ Create an web application,UI and more... </p>
 
 
 <h1>also ALX developer <h1>
+<h3> i love <h1 style=color:greed;>ALX<h1>because currently now am using <h1>C language<h1>as prof<h3>
+<h1 style=color:green;> ALX <h1>
+<h1> ALX <h1> 
