@@ -1,2 +1,2 @@
 <h1>front-end developer/NITDA blockchain <h1>
-<p> I will be  happy today if you read more about me .... 
+HI! am so excited you are here today, i really love friends who come to my my REPO and take a look!
